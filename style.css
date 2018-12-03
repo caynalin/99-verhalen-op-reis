@@ -1,0 +1,65 @@
+html{
+    font-family: sourcesanspro-light;
+}
+
+body background {
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 2em;
+}
+
+input {
+    padding: 6px;
+    font-size: 17px;
+    background-color: aliceblue;
+    
+}
+    
+}
+
+h3 {
+    color: white;
+    font-size: 1em;
+    position:absolute;
+    bottom: 5em;
+}
+
+
+nav li {
+    position: relative;
+    float: left;
+    padding: 1em;
+    background-color: black;
+    list-style: none;   
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+article{
+  width: 20em;
+  padding: 1em;
+}
+
+img {
+  width: 100%;
+  width: calc(100% + 2em);
+  border: 1px solid silver;
+  margin-left: -1em;
+  margin-top: -1em;
+}
+
+h1 a {
+  color: purple; 
+  
+}
+
+
+
+
